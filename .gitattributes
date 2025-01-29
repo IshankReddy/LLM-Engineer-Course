@@ -1,2 +1,2 @@
 *.psd filter=lfs diff=lfs merge=lfs -text
-*.plk filter=lfs diff=lfs merge=lfs -text
+Chp5/*.plk filter=lfs diff=lfs merge=lfs -text
